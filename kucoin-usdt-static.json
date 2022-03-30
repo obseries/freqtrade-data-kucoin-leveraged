@@ -2,6 +2,8 @@
     "exchange": {
         "name": "kucoin",
         "pair_whitelist": [
+            "BTC/USDT",
+
             "BTC3L/USDT",
             "BTC3S/USDT",
             "ETH3L/USDT",
